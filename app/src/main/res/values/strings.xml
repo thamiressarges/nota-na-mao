@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Nota na mão</string>
+    <string name="txt_title">Sua média na palma da mão</string>
+    <string name="hint_first_grade">1° Nota:</string>
+    <string name="hint_second_grade">2° Nota:</string>
+    <string name="hint_third_grade">3° Nota:</string>
+    <string name="hint_fourth_grade">4° Nota:</string>
+    <string name="hint_number_of_absences">Número de faltas</string>
+    <string name="txt_btn_calculate">Calcular</string>
+    <string name="alert_message_aprovedd">Aluno aprovado!</string>
+    <string name="alert_failed_due_to_absences">Reprovado por faltas</string>
+    <string name="alert_failed_due_to_grades">Reprovado por nota</string>
+
+    <!-- Mensagens de erro para campos obrigatórios -->
+    <string name="error_fill_grade_1">Preencha a nota 1</string>
+    <string name="error_fill_grade_2">Preencha a nota 2</string>
+    <string name="error_fill_grade_3">Preencha a nota 3</string>
+    <string name="error_fill_grade_4">Preencha a nota 4</string>
+    <string name="error_fill_absences">Informe as faltas</string>
+
+    <!-- Mensagens de erro para valores inválidos -->
+    <string name="error_invalid_grade">Nota deve ser de 0 a 10</string>
+    <string name="error_negative_absences">Faltas não podem ser negativas</string>
+</resources>
