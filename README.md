@@ -33,8 +33,6 @@ Aplicativo Android desenvolvido em Java para cálculo da média escolar com base
 
 ## 📸 Imagens
 
-> Substitua os links abaixo pelos seus próprios arquivos ou URLs de imagens hospedadas.
-
 ![Telas](./images/telas.png)  
 
 ---
